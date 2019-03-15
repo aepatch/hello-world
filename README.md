@@ -1,2 +1,7 @@
 # hello-world
-testing new repository
+
+Hi there. 
+
+Here is a test edit to my README file.
+
+Goodbye.
